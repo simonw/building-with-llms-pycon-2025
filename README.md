@@ -8,6 +8,15 @@ If you are attending this tutorial you will need a **laptop with a browser** and
 
 If you would prefer to run everything on your own machine you will need a **Python 3.9 or higher** local development environment with the ability to create a virtual environment and install packages using `pip`.
 
+You can pre-install the packagens we will be using like this:
+
+```bash
+git clone https://github.com/simonw/building-with-llms-pycon-2025
+cd building-with-llms-pycon-2025
+python -m venv venv
+venv/bin/pip install -r requirements.txt
+```
+
 If you would like to explore **local models** and have both the space and the capacity to run them on your own machine you should download additional software prior to the workshop, as these large files should not be downloaded over the conference WiFi. This is *strictly optional* - the section of the workshop on local models will not assume that you have them available on your own machine.
 
 For this section, I recommend installing [Ollama](https://ollama.com/). This free software is available for macOS, Linux, and Windows, and packages various LLMs for local use.

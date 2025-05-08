@@ -1,0 +1,10 @@
+llm
+llm-gemini
+llm-anthropic
+llm-cmd
+llm-github-models
+llm-ollama
+llm-docs
+llm-fragments-github
+datasette
+sqlite-utils
