@@ -8,7 +8,7 @@ If you are attending this tutorial you will need a **laptop with a browser** and
 
 If you would prefer to run everything on your own machine you will need a **Python 3.9 or higher** local development environment with the ability to create a virtual environment and install packages using `pip`.
 
-You can pre-install the packagens we will be using like this:
+You can pre-install the packages we will be using like this:
 
 ```bash
 git clone https://github.com/simonw/building-with-llms-pycon-2025
