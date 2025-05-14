@@ -1,6 +1,6 @@
-llm
-llm-gemini
-llm-anthropic
+llm>=0.26a0
+llm-gemini>=0.20a0
+llm-anthropic>=0.16a0
 llm-cmd
 llm-github-models
 llm-ollama
