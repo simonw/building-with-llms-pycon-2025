@@ -2,6 +2,8 @@
 
 A tutorial [to be presented at PyCon US 2025](https://us.pycon.org/2025/schedule/presentation/25/).
 
+Here is **[the handout for the workshop](https://building-with-llms-pycon-2025.readthedocs.io/)**.
+
 ## Prerequisites for attendees
 
 If you are attending this tutorial you will need a **laptop with a browser** and a **GitHub account**. The tutorial can be entirely completed using [GitHub Codespaces](https://github.com/features/codespaces), a free online development environment.
