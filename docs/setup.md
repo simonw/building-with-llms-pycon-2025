@@ -55,7 +55,7 @@ llm keys set openai
 Test that the keys works like this:
 ```bash
 llm 'five fun facts about pelicans'
-
+```
 The key will be saved to a JSON file. You can see the location of that file by running:
 ```bash
 llm keys path
