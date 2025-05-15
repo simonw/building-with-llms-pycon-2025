@@ -2,6 +2,8 @@
 
 A workshop presented by [Simon Willison](https://simonwillison.net) at PyCon 2025.
 
+See [my blog for the accompanying annotated slides](https://simonwillison.net/2025/May/15/building-on-llms/).
+
 ```{toctree}
 ---
 maxdepth: 3

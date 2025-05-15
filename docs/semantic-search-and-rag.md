@@ -1,5 +1,7 @@
 # Semantic search and RAG
 
+This section started with [some slides and background on embeddings](https://simonwillison.net/2025/May/15/building-on-llms/#llm-tutorial-intro.015.jpeg).
+
 One of the most popular applications of LLMs is to build "ask questions of my own documents" systems.
 
 You do **not** need to fine-tune a model for this. Instead, you can use a pattern called **retrieval-augmented generation** (RAG).

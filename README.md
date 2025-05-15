@@ -1,6 +1,8 @@
 # Building software on top of Large Language Models
 
-A tutorial [to be presented at PyCon US 2025](https://us.pycon.org/2025/schedule/presentation/25/).
+A tutorial [presented at PyCon US 2025](https://us.pycon.org/2025/schedule/presentation/25/).
+
+A full write-up with annotated slides [is available here on my blog](https://simonwillison.net/2025/May/15/building-on-llms/).
 
 Here is **[the handout for the workshop](https://building-with-llms-pycon-2025.readthedocs.io/)**.
 
