@@ -39,7 +39,7 @@ You'll need an OpenAI API key for this workshop. You can either get your own her
 
 Or you can use a shared one I created for the workshop. You'll need the password that is distributed in the workshop:
 
-**[Get the workshop API key (password required)](https://tools.simonwillison.net/encrypt#s4zfXxKzT7Qy6dYfQYIq5w0VvGeOLnvuOn3+MM9pHUuMyvwCLhNo6i/q4tqUVYhPQA1kVO55c1QUqn/8jZpMR1IOoOJphKbbjtVD82gIGekmisiYNa4UVNPt88cKddI+zK3TBljHOjTwIqPxQSvWkgRJGETORa26d6d1NahdcKUeUmHuTrjNciqgt9iowD1zkAIejsBq84+A0aRrxWLEfMWfi2lhiW3Rd0hJu0lJpuV3AVR3K/PuywlrGhx91Ns8hmWpQ/ImSXKkAcIUY4/ZjNWY/g==)**
+**[Get the workshop API key (password required)](https://tools.simonwillison.net/encrypt#s4zfXxKzT7Qy6dYfQYIq5w0VvGeOLnvuOn3+MM9pHUuMyvwCLhNo6i/q4tqUVYhPQA1kVO55c1QUqn/8jZpMR1IOoOJphKbbjtVD82gIGekmisiYNa4UVNPt88cKddI+zK3TBljHOjTwIqPxQSvWkgRJGETORa26d6d1NahdcKUeUmHuTrjNciqgt9iowD1zkAIejsBq84+A0aRrxWLEfMWfi2lhiW3Rd0hJu0lJpuV3AVR3K/PuywlrGhx91Ns8hmWpQ/ImSXKkAcIUY4/ZjNWY/g==)** (this key has now been deactivated)
 
 This shared key is restricted to the following models: `gpt-4o-mini`, `gpt-4.1`, `gpt-4.1-nano`, `gpt-4.1-mini`, `o4-mini`.
 
