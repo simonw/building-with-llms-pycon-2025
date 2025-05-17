@@ -12,6 +12,7 @@ If you're not using Codespaces you'll need a Python 3.9+ environment that you ca
 
 ```bash
 git clone https://github.com/simonw/building-with-llms-pycon-2025
+cd building-with-llms-pycon-2025
 
 # Optional if you want a virtual environment (no need to do this on Codespaces):
 python -m venv venv
